@@ -1,0 +1,3 @@
+[submodule "testMerge2"]
+	path = testMerge2
+	url = https://github.com/cordlsaikrishna/testMerge2
